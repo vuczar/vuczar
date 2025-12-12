@@ -12,12 +12,14 @@
 
 
 - 🌱 I’m currently working on my **Portfolio**
-- 📚 I’m currently learning a lot of **Security, Networking and Shell**
-- 🎓 I'm in the 5th semester of **Computer Science**
+- 📚 I’m currently learning a lot of **Security, Networking and OS**
+- 🎓 I'm in the 6th semester of **Computer Science**
+- 🔗 All of my projects are available at **...(coming soon)**
+<!--
 - 🛸 I'm in 42sp living the "Piscine" 👀
 - 🚀 I'm the 77th class of **Generation Brazil**
 - 🤝 I’m looking to collaborate on **Investment and EdTech**
-- 🔗 All of my projects are available at **...(coming soon)**
+-->
 
 💬 How to reach me? [**LinkedIn**](https://linkedin.com/in/vmsou) ⚡
 
