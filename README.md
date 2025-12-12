@@ -49,8 +49,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuczar&show_icons=true&theme=radical&card_width=1000&layout=compact)]()
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vuczar&show_icons=true&theme=radical&card_width=400" alt="vuczar" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vuczar&theme=radical&card_width=400" alt="vuczar" /></p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=vuczar&style=for-the-badge&label=reloads&color=blueviolet" alt="vuczar" /> </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuczar&show_icons=true&theme=radical&card_width=400" alt="vuczar" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vuczar&theme=radical&card_width=400" alt="vuczar" />
+</p>
 
 ![visitorstrack](https://hit.yhype.me/github/profile?user_id=170134485)
