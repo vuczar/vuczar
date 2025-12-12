@@ -1,14 +1,14 @@
 <!--Estou tentando atualizar esse readme todo mês, fique tranquilo que se estiver lendo isso, todas as informações estão atualizadas-->
 
-[![Hihi](https://github.com/vsmau/vsmau/blob/main/archipic.gif?raw=true)](https://github.com/vsmau)
+[![Hihi](https://github.com/vuczar/vuczar/blob/main/archipic.gif?raw=true)](https://github.com/vuczar)
 
 <div align = "center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F716&background=000000&center=true&vCenter=true&width=435&lines=%24vsmau%3E+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F+Hello%2C+I'm+Vini;%24vsmau%3E+Nice+to+meet+you+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F716&background=000000&center=true&vCenter=true&width=435&lines=%24vuczar%3E+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F+Hello%2C+I'm+Vini;%24vuczar%3E+Nice+to+meet+you+%F0%9F%98%81)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://github.com/vsmau/vsmau/blob/main/archipic3.png?raw=true" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador Code">
+<img src="https://github.com/vuczar/vuczar/blob/main/archipic3.png?raw=true" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador Code">
 
 
 - 🌱 I’m currently working on my **Portfolio**
@@ -47,10 +47,10 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsmau&show_icons=true&theme=radical&card_width=1000&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuczar&show_icons=true&theme=radical&card_width=1000&layout=compact)]()
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vsmau&show_icons=true&theme=radical&card_width=400" alt="vsmau" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsmau&theme=radical&card_width=400" alt="vsmau" /></p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=vsmau&style=for-the-badge&label=reloads&color=blueviolet" alt="vsmau" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vuczar&show_icons=true&theme=radical&card_width=400" alt="vuczar" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vuczar&theme=radical&card_width=400" alt="vuczar" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=vuczar&style=for-the-badge&label=reloads&color=blueviolet" alt="vuczar" /> </p>
 
 ![visitorstrack](https://hit.yhype.me/github/profile?user_id=170134485)
