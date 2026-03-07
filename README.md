@@ -23,7 +23,7 @@
 
 💬 How to reach me? [**LinkedIn**](https://linkedin.com/in/vmsou) ⚡
 
-🧩 Fun fact? I solve a leetcode/hackerrank/exercism problem almost everyday 😁
+🧩 me in 3 words? I really like __history__, __politics__ and __cyber__ 😁
 
 <div align = "center">
 
@@ -34,15 +34,9 @@
 
 <div>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1117)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=white)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&labelColor=0D1117)](#)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0D1117)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&labelColor=0D1117)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)
-![Insomnia](https://img.shields.io/badge/Insomnia-white?style=for-the-badge&logo=insomnia&logoColor=5849BE&labelColor=0D1117)
 
 </div>
 <br>
