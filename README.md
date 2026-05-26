@@ -11,9 +11,9 @@
 <img src="https://github.com/vuczar/vuczar/blob/main/archipic3.png?raw=true" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador Code">
 
 
-- 🌱 I’m currently working on my **Portfolio**
+- 🌱 I’m currently working on my **BlueTeam Team**
 - 📚 I’m currently learning a lot of **Security, Networking and OS**
-- 🎓 I'm in the 6th semester of **Computer Science**
+- 🎓 I'm cadet at 42sp of **Software Engineer**
 - 🔗 All of my projects are available at **...(coming soon)**
 <!--
 - 🛸 I'm in 42sp living the "Piscine" 👀
