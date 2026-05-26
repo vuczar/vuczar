@@ -11,7 +11,7 @@
 <img src="https://github.com/vuczar/vuczar/blob/main/archipic3.png?raw=true" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador Code">
 
 
-- 🌱 I’m currently working on my **BlueTeam Team**
+- 🌱 I’m currently working on **BlueTeam Area**
 - 📚 I’m currently learning a lot of **Security, Networking and OS**
 - 🎓 I'm cadet at 42sp of **Software Engineer**
 - 🔗 All of my projects are available at **...(coming soon)**
